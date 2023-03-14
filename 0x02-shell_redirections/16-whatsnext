@@ -1,0 +1,2 @@
+#!/bin/bash
+qrep -iA 3 "root" /etc/passwd
